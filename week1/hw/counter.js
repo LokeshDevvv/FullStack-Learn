@@ -9,4 +9,4 @@ function  counter(){
 }
 const  timer = setInterval(counter,1000)
 // Can do this with a for loop wil take 1 sec to print 1 and following numbers ?(later to be dicussed)
-
+// so Dumb Forloop wont take 1sec to print whole thing but wee  need to do one sec 
